@@ -10,7 +10,8 @@
         "logs-generic-default",
         "logstash-*",
         "ecs-logstash-*",
-        "filebeat-*"
+        "filebeat-*",
+        "apache_access-*"
       ],
       "privileges": [
         "write",
